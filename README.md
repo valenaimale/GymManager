@@ -1,4 +1,4 @@
-# GymManager
+# ProgresoFit
 
 Introducción
 
