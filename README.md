@@ -1,4 +1,4 @@
-# ProgresoFit
+## ProgresoFit
 
 Introducción
 
@@ -8,3 +8,8 @@ El proyecto se desarrollará de forma incremental a lo largo de la cursada, cont
 Presentación TP1:
 
 En esta primera entrega se presenta la propuesta general del sistema, incluyendo el presupuesto funcional y temporal, así como el SiteMap del sitio web. Tanto el sitemap como la propuesta del sistema se encuentra dentro de la carpeta "TP1" dentro de este mismo repositorio en los documentos "propuesta-general.docx.pdf", en caso de la propuesta y en "SiteMap.jpeg" y "SiteMap.pdf", en caso del SiteMap.
+
+
+## wireframes
+
+https://www.figma.com/files/team/1612908436241195191/project/569670320?fuid=1612908434420922304
